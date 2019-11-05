@@ -16,6 +16,6 @@
 
 ####### ССЫЛКИ №№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№
 trello board:
-https://trello.com/b/odadd4QH/ssc-bot
+https://trello.com/b/odadd4QH/ssc-bot 
 
 #####  To be continued ...
